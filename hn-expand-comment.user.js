@@ -4,6 +4,7 @@
 // @description  Expand nested comments to improve readability on HN comments 
 // @match        https://news.ycombinator.com/item*
 // @author       Daniel de Vries
+// @license      MIT
 // @version      0.1
 // ==/UserScript==
 
