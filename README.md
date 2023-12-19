@@ -12,8 +12,8 @@ This userscript solves the problem of reading comments that are nested deep and 
 
 1. Install a userscript manager:
 - Tampermonkey [Chrome](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)  [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
-- Violentmonkey [Chrome](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)  [Firefox](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/).
-2. Install the user script from greasefork (INSTALL link).
+- Violentmonkey [Chrome](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)  [Firefox](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/)
+2. Install the userscript from greasyfork [HERE](https://greasyfork.org/en/scripts/482695-hn-expand-comment)
 
 ## TODO
 - When expanded, change button text to 'contract'
