@@ -1,6 +1,6 @@
 # hn-expand-comment
 
-Improve the readability of deep nested comments on [Hacker News](https://news.ycombinator.com/) mobile website.
+Improve the readability of deeply nested comments on [Hacker News](https://news.ycombinator.com/) mobile website.
 
 This userscript solves the problem of reading comments that are nested deep and thus very narrow. There is a lot of mobile screen real estate not being used. However, not every comment that is nested needs the expand functionality, only comments nested deeper than 6 levels and have over 400 characters (differs among smartphones screen sizes).
 
@@ -16,4 +16,4 @@ This userscript solves the problem of reading comments that are nested deep and 
 2. Install the userscript from greasyfork [HERE](https://greasyfork.org/en/scripts/482695-hn-expand-comment)
 
 ## TODO
-- When expanded, change button text to 'contract'
+- ~~When expanded, change button text to 'contract'~~
